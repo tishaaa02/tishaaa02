@@ -21,31 +21,6 @@ The app automatically generates:
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔹 **City Mood Tracker – Real-Time Sentiment Dashboard**  
-Analyzes social media data to detect city-wide mood, emotions, and trending topics.  
-Includes sentiment scoring, spike detection, and time-series trends.
-
-### 🔹 **Resume Gap Analyzer – Skill Match Scoring System**  
-Compares any job description with a user’s resume and produces:  
-- A match score  
-- Missing skills  
-- Recommended improvements  
-- A personalized learning plan  
-
-### 🔹 **Villa Rentals Predictor – Occupancy & Pricing Analytics**  
-Forecasts villa occupancy, revenue, and seasonal pricing trends.  
-Built for real estate, travel, and hospitality decision-making.
-
-### 🔹 **Data Quality Auditor – Data Health & Auto-Fix Tool**  
-Evaluates any dataset and returns:  
-- A Data Health Score  
-- Missing value fixes  
-- Outlier detection  
-- Auto-generated cleaning script  
-
----
 
 ## 🛠️ Tools & Technologies
 
